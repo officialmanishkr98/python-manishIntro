@@ -1,0 +1,30 @@
+# Manish Greetings Python Package Changelog
+
+All notable changes to the "Manish Greetings" Python package will be documented in this file. The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [Unreleased]
+
+### Added
+
+- Introduction function to provide a brief overview of Manish's background.
+- Expanded documentation to enhance user understanding.
+- Contribution guidelines for the community.
+
+### Changed
+
+- Improved code structure for better maintainability.
+- Enhanced the greeting message for a more friendly tone.
+
+### Fixed
+
+- Resolved minor bugs related to function calls.
+- Updated dependencies for better compatibility.
+
+## [1.0.0] - 2023-12-01
+
+### Added
+
+- Initial release of the Manish Greetings Python package.
+- Basic functionality with a greeting message from Manish, the DevOps engineer.
+
+Enjoy using Manish Greetings! 🚀
