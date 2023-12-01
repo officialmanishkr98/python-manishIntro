@@ -11,7 +11,7 @@ Follow these simple steps to integrate the Manish Greetings Python package into 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Manish Greetings.
 
 ```bash
-pip install manish-greetings
+pip install manishIntro
 ```
 
 ### Usage
@@ -40,10 +40,10 @@ We welcome contributions from the community! If you have ideas for improvements,
 
 ## License
 
-This Manish Greetings Python package is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute it according to your needs.
+This Manish Greetings Python package is open-source and available under the [GNU License](LICENSE). Feel free to use, modify, and distribute it according to your needs.
 
 ## Contact
 
-For any inquiries or feedback, please reach out to Manish, the DevOps engineer, at manish@example.com.
+For any inquiries or feedback, please reach out to Manish, the DevOps engineer, at officialmanishkr98@gmail.com.
 
 Happy coding with Manish Greetings! 🚀
